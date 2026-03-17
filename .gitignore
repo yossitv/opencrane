@@ -1,5 +1,6 @@
 assistant
 .assistants
+.env
 .envrc
 .claude
 .cline
@@ -12,4 +13,7 @@ assistant
 
 docs/gb10.md
 .venv
+__pycache__/
 docs/references/airtable-hack-for-impact-project-submission-form.md
+
+/edge/captures

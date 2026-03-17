@@ -46,6 +46,12 @@ streamlit run edge/app.py
 8501
 ```
 
+### Edge Camera
+```bash
+# Fetch the latest camera frame from the Jetson device over Tailscale
+python edge/fetch_camera_image.py
+```
+
 ### Training
 ```bash
 # Setup training environment
