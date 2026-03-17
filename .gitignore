@@ -9,3 +9,7 @@ assistant
 .agents
 .agent
 .cursor
+
+docs/gb10.md
+.venv
+docs/references/airtable-hack-for-impact-project-submission-form.md
