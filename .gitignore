@@ -1,4 +1,6 @@
 assistant
+.assistants
+.envrc
 .claude
 .cline
 .cursor
